@@ -80,7 +80,7 @@ const SearchBar = () => {
           {filteredItems.length > 0 ? (
             filteredItems.map((item, index) => (
               <li key={index}>
-                <Link className="ull2" to={`/search/${item}`}>
+                <Link className="ull2" to={`/${item}`}>
                   {item}
                 </Link>
               </li>
