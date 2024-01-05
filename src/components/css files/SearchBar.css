@@ -1,0 +1,23 @@
+input {
+  width: 250px;
+  height: 30px;
+  border: none;
+  border-radius: 8px;
+}
+.ull {
+  list-style-type: none;
+  background-color: white;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.ull1 {
+  color: darkgrey;
+}
+.ull2 {
+  text-decoration: double;
+  color: darkgrey;
+}
+.ull2:hover {
+  color: black;
+}
