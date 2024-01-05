@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Discover-Doller-Inc-Test/static/css/main.5503669f.css",
-    "main.js": "/Discover-Doller-Inc-Test/static/js/main.d4cd3781.js",
+    "main.js": "/Discover-Doller-Inc-Test/static/js/main.2d923602.js",
     "static/js/787.9e9f4ffd.chunk.js": "/Discover-Doller-Inc-Test/static/js/787.9e9f4ffd.chunk.js",
     "index.html": "/Discover-Doller-Inc-Test/index.html",
     "main.5503669f.css.map": "/Discover-Doller-Inc-Test/static/css/main.5503669f.css.map",
-    "main.d4cd3781.js.map": "/Discover-Doller-Inc-Test/static/js/main.d4cd3781.js.map",
+    "main.2d923602.js.map": "/Discover-Doller-Inc-Test/static/js/main.2d923602.js.map",
     "787.9e9f4ffd.chunk.js.map": "/Discover-Doller-Inc-Test/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5503669f.css",
-    "static/js/main.d4cd3781.js"
+    "static/js/main.2d923602.js"
   ]
 }
